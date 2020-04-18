@@ -1,0 +1,129 @@
+body{
+  margin:0;
+  text-align:center;
+font-family: 'Merriweather', serif;
+}
+h1{
+  margin:50px auto 0 auto;
+font-family: 'Montez', cursive;
+font-size: 5.625em;
+color: #66BFBF;
+}
+h2{
+  font-family: 'Montaga', serif;
+  font-size:2.25rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Vollkorn', serif;
+  color: #66BFBF;;
+  font-size: 2em;
+}
+p{
+  color:#40514E;
+  font-size: 1em;
+  line-height:2;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.top{
+  background-color: #EAF6F6;
+position:relative;
+padding-top:100px;
+}
+.middle-container{
+  margin: 100px auto 100px auto;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact{
+  width: 30%;
+  margin: auto;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-cloud{
+
+  position:absolute;
+  right:300px;
+  top:30px;
+}
+.bottom-cloud{
+  position:absolute;
+bottom:300px;
+left:250px;
+}
+.bindu{
+height:200px;
+  width:200px
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+}
+.chilly{
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+.comp{
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+.myButton {
+	box-shadow: 0 0 0 2px #66BFBF;
+	background:linear-gradient(to bottom, #66BFBF 5%, #66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:10px;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #66BFBF;
+  margin:50px auto 50px auto;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #11999E 5%, #11999E 100%);
+	background-color:#11999E;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  padding-bottom:100px;
+  margin:100px auto 100px auto;
+  background-color:#66BFBF;
+}
+.footer-link{
+  font-size:1.625rem;
+  font-family: cursive;
+  color:#11999E;
+  margin:auto 50px auto 50px;
+}
+.name{
+  font-size:1.125rem;
+  color:#EAF6F6;
+}
